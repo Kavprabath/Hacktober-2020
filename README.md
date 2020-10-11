@@ -1,3 +1,3 @@
-# hacktoberfest-2020
+# hacktoberfest
 rashenka savindi
 kavindu prabath
